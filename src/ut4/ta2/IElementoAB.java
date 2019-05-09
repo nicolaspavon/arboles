@@ -1,5 +1,4 @@
-
-import ut4.ta2.TElementoAB;
+package ut4.ta2;
 
 public interface IElementoAB<T> {
 
